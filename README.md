@@ -5,6 +5,8 @@ If You're Technical, Start Here: Quick Instructions
 
 If you're a technical user and already understand what OLLAMA and LLMs are, follow the exact steps below. Otherwise, scroll down for the full explanation.
 
+Now i have also created 2 scripts to do all the job, find them in repo code. run online script on online machine and offline script on offline machine. replace models with your desired models and run the scripts.
+
 ## On an Online Machine (Prep Phase)
 ### Step 1: Download OLLAMA installer (choose one)
 `wget https://ollama.com/download/ollama-linux-amd64-rocm.tgz`
